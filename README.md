@@ -2,6 +2,8 @@ An interactive Streamlit web application for comparing a quantum variational cla
 
 This application provides a hands-on environment to visually explore how different machine learning models handle non-linearly separable data, offering insights into the potential strengths of quantum circuits. It's designed for students, researchers, and anyone interested in the practical side of quantum machine learning and the ongoing search for quantum advantage.
 
+Link - https://quantum-vs-classical-ml-app.streamlit.app/
+
 ### 🚀 Key Features:
 
 * **Interactive Controls:** Configure the entire experiment through a user-friendly sidebar without touching any code.
